@@ -1,2 +1,2 @@
-# progate
-Project of Progate Programming Bootcamp.
+# Progate Project
+Simple project when i learn in Progate Bootcamp.
