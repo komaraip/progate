@@ -1,2 +1,2 @@
 # progate
-Just Exercise
+Project of Progate Programming Bootcamp.
